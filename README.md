@@ -12,6 +12,7 @@ npx skills add blacksheep81/stop-slop --skill stop-slop
 
 - 用 stop-slop 润色这篇中文博客，保留我的语气和观点。
 - 先用 stop-slop 审阅这份英文草稿，指出三处最影响阅读的地方。
+- 对比这两版英文反思，指出哪处更清楚、哪处改变了原意。
 - 用我的口述笔记整理大纲，确认重点后再成稿。
 
 ## 来源与许可
@@ -20,5 +21,6 @@ npx skills add blacksheep81/stop-slop --skill stop-slop
 - 中文编辑约束参考 [歸藏的 Humanizer-zh](https://github.com/op7418/Humanizer-zh)，许可见 [Humanizer-zh MIT](licenses/Humanizer-zh-MIT.txt)。中文表格和例子为本版整理。
 - [躺平的实验文章](https://x.com/lieflat_3/status/2118355780474937831)提供了诊断思路。关联项目 [lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone)采用 CC BY-NC 4.0，本仓库未分发其脚本、语料或规则原文。
 - [Lonely__MH 的写作流程](https://x.com/lonely__mh/status/2118319043388309704)提供了从口述、确认大纲到成稿的工作思路。
+- [英文审阅参考](references/english-review.md)提炼自用户提供的《英文写作对比与审阅方法论》，例句为本版另写。
 
 该 Skill 评审文本表达，不鉴定作者身份或预测检测器结果。
