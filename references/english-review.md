@@ -12,3 +12,5 @@
 | “In this pilot, response times fell.” → “The system reduced response times.” | 句子更直接，但删去试点范围，并把观察改成因果。需要证据才能采用。 |
 | “The team changed the form and extended the deadline. This improved completion.” | `This` 可能指一个改动或两个。原始证据无法区分时保留不确定性。 |
 | “The logs were retained for 30 days.” | 保留时长是重点。施事者无需补写，被动结构清楚。 |
+
+维护此 Skill 时用原句和修改版复跑上述样例，再加一条中文口述样例：「我还没决定要不要上线。三个同事看过测试版。」润色应保留未决定、三人、测试版和看过的动作。区分链接与元数据检查、AI 样例评估和人工确认。
